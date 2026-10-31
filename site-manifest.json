@@ -1,0 +1,170 @@
+{
+  "packageIdentity": "59168ddc997fc5d598eaa23c8fbde9177ddfe494657e5d249cdc8fdc80075552",
+  "files": [
+    {
+      "path": "assets/ZGF0YS9tYXRlcmlhbHMvcWluLWNvbnRleHQudHh0.txt",
+      "sha256": "5eb84185abaa9fe13a4689c232a922f4efff021d7b81fe76e98df267449dfa43",
+      "size": 1160
+    },
+    {
+      "path": "assets/ZGF0YS9tYXRlcmlhbHMvbGlzaS50eHQ.txt",
+      "sha256": "5ba4c5554b6b77bcce7f2543d9c1e0f624286251496ae803ac7e24600ecad9d5",
+      "size": 673
+    },
+    {
+      "path": "assets/ZGF0YS9tYXRlcmlhbHMvbGl1em9uZ3l1YW4udHh0.txt",
+      "sha256": "c2cbbcf6bce485dc3aaaa60e2423b0fb4bca71f15bd23ddd5e4d19ae3b8bef9b",
+      "size": 641
+    },
+    {
+      "path": "assets/ZGF0YS9tYXRlcmlhbHMvamlheWkudHh0.txt",
+      "sha256": "5b98efc848aa94a415c2bee375a58b584a7f1e5559e105c401a5651eb8b289d2",
+      "size": 680
+    },
+    {
+      "path": "assets/ZGF0YS9tYXRlcmlhbHMvcWluLXNjaGVtYXRpYy5zdmc.svg",
+      "sha256": "94080121cecba5cc7f811fae113f2a13e46badbea15b698491e1d10acdb2b481",
+      "size": 808
+    },
+    {
+      "path": "assets/ZGF0YS9tYXRlcmlhbHMvcWluLXNoaWh1YW5nLTE4Yy5qcGc.jpg",
+      "sha256": "4d1dd44183ddde0b2d69cdffcac351baea310d84f1867b6a1f0ea0a2c9e64770",
+      "size": 31437
+    },
+    {
+      "path": "index.html",
+      "sha256": "79943cfc895049d61078aafcb5dad76899c4429d15acd6cbdc672e839368ed4d",
+      "size": 5468
+    },
+    {
+      "path": "series/SFMtQ04.html",
+      "sha256": "285039f0a9a339a06ce272f016f9c03cf92edb063ac83d4831fe9cb8c277b3c2",
+      "size": 1530
+    },
+    {
+      "path": "series/SFMtV09STEQ.html",
+      "sha256": "8cbc4004ca17aa3f2663f5f015faf091fe2a72b9d665329604db4f61bad7ae78",
+      "size": 873
+    },
+    {
+      "path": "series/SFMtR09W.html",
+      "sha256": "15b429ca9a8f99f75953dc4e3f0ce2c79101850cb60dc7869c559db43340ad9b",
+      "size": 885
+    },
+    {
+      "path": "series/SFMtRUNPTg.html",
+      "sha256": "41bd452a1269dd4c6ae0517e2aa59d7b42cf3b5a731b876d8efeb975ec0a39e7",
+      "size": 885
+    },
+    {
+      "path": "series/SFMtQ1VMVFVSRQ.html",
+      "sha256": "4efaa46824d37f3885ac993f60a1396bbaae810e89332284f00adcce07d4bf93",
+      "size": 885
+    },
+    {
+      "path": "series/SFMtRVZFTlQ.html",
+      "sha256": "c970222096688d041d6e2654fd218630821fa80f70ac0b26aca82946f433e16c",
+      "size": 894
+    },
+    {
+      "path": "series/SFMtUEVSU09O.html",
+      "sha256": "c0966328b4e5014818792f80ecab5aefef942f97a7efc6a0d03d88684c1e2d0c",
+      "size": 1583
+    },
+    {
+      "path": "series/SFMtTUFQ.html",
+      "sha256": "556d5b04efba7edf1518076175518fda848035a05eca6c19699aba483cdfcb8f",
+      "size": 894
+    },
+    {
+      "path": "series/SFMtU09VUkNF.html",
+      "sha256": "2c6d97d07a3bcb9ffec1d8fdca399b52cba27176fe52b3f28c2a8f787366eea8",
+      "size": 900
+    },
+    {
+      "path": "series/SFMtQ09NUEFSRQ.html",
+      "sha256": "5a95c0972584a69c1d290ed46180936b68867bb9e9ed712323c1581d474f085f",
+      "size": 900
+    },
+    {
+      "path": "series/SFMtUkVWSUVX.html",
+      "sha256": "2a59f7654c988f5a06238f79f9f2175baabd7d06327779e6deedaf85c81aabec",
+      "size": 900
+    },
+    {
+      "path": "series/SFMtSU5RVUlSWQ.html",
+      "sha256": "f38e66d77c23b6dd10af06ce5bd6f3e6a117da07c1f3ce73f914e49c8e2399e4",
+      "size": 894
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/index.html",
+      "sha256": "dd5f66bef6c53716bdfe1a481f6d23625093aa833533f1c1463e4015765b8bbd",
+      "size": 25669
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/chapter-YzE.html",
+      "sha256": "90d4b6deaaf67d834cc9500a079dadb9556d76432d144320c8f669a355c6ddd0",
+      "size": 1762
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/chapter-YzI.html",
+      "sha256": "94f1f39192f6060c83e3c1a68a566a498e70aff41419225ac5414077c1d377dc",
+      "size": 3156
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/chapter-YzM.html",
+      "sha256": "9b38d1315d91fcc4e487ba7b451310eb90805915f2282c330085110c9374fcdf",
+      "size": 2892
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/chapter-YzQ.html",
+      "sha256": "f6771dc0229a1f1b582511426253e85bd6aa507570ac1082a43366c25e8f41a5",
+      "size": 2171
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/chapter-YzU.html",
+      "sha256": "2b981c379de40998479d423ed375c5b2c7f5f34d8c58f59f2515c9085f7916ff",
+      "size": 2126
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/index.html",
+      "sha256": "771748108674c096db8e31977940f3c32f409643cdf172be6b8e9f102d2f90d2",
+      "size": 23617
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/chapter-YzE.html",
+      "sha256": "b87a945b0048b68cf06b46ce75cc291d3dc2fd00888f9dd3a8629a1879479b24",
+      "size": 1960
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/chapter-YzI.html",
+      "sha256": "69e11023dfeae8e82d12b1731176dce6b8e27e379dc2115a899c366de686c4f6",
+      "size": 2243
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/chapter-YzM.html",
+      "sha256": "f86d33022284f0fc5ba27b0e15727483589add59e2bb09d3e5dfa1e00bc8c3db",
+      "size": 2215
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/chapter-YzQ.html",
+      "sha256": "ae290181ba75fc8b094318273f80fe3654bfef3b714ace37b46bf1ed0466687c",
+      "size": 2172
+    },
+    {
+      "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/chapter-YzU.html",
+      "sha256": "d01fd04cacf3bce94efc969e98dd3fc147bfab63945d0aabf2c5381c2d95cdab",
+      "size": 2154
+    },
+    {
+      "path": "styles.css",
+      "sha256": "a92cbba4f6c0392742442d91dd52b56ea15ea4660d12344c9ec8174af58fb34f",
+      "size": 4333
+    },
+    {
+      "path": "catalog.js",
+      "sha256": "65a2ab74ea21d42c388bfd095e3afde5a45d3dd2b9c01413424a02efcd29d13d",
+      "size": 13238
+    }
+  ]
+}
