@@ -1,5 +1,5 @@
 {
-  "packageIdentity": "59168ddc997fc5d598eaa23c8fbde9177ddfe494657e5d249cdc8fdc80075552",
+  "packageIdentity": "3b47d24ae1c21eb96a2ead995ebb7eccb175b853bd19f1c6be5f638c8b34107e",
   "files": [
     {
       "path": "assets/ZGF0YS9tYXRlcmlhbHMvcWluLWNvbnRleHQudHh0.txt",
@@ -98,8 +98,8 @@
     },
     {
       "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/index.html",
-      "sha256": "dd5f66bef6c53716bdfe1a481f6d23625093aa833533f1c1463e4015765b8bbd",
-      "size": 25669
+      "sha256": "85333c3c1d3aac62dd24b3b7212a603c076e9559eff2fb05b329cbbcdba2adb2",
+      "size": 25866
     },
     {
       "path": "lessons/cGlsb3QtcWluLXVuaWZpY2F0aW9u/chapter-YzE.html",
@@ -128,8 +128,8 @@
     },
     {
       "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/index.html",
-      "sha256": "771748108674c096db8e31977940f3c32f409643cdf172be6b8e9f102d2f90d2",
-      "size": 23617
+      "sha256": "e5481a39e7d5c304b5161b954dba36e2f78d692535c807dde503086686bbff62",
+      "size": 23814
     },
     {
       "path": "lessons/cGlsb3QtcWluLXNoaWh1YW5nLWV2YWx1YXRpb24/chapter-YzE.html",
